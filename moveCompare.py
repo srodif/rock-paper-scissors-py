@@ -5,8 +5,8 @@ result = 1
 print(result)
 
 def movecompare(playerM,computerM) :
-    '''asd
-    asd'''
+    '''Compares the moves of player and computer
+    to declare a winner'''
     print("funRun")
     if playerM == "a" :
      if computerM == "a" : 
